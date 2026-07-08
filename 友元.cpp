@@ -3,6 +3,7 @@
 #include<string>
 using namespace std;
 class building;
+//修改
 class gay{
     public:
     building* b;
